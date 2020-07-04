@@ -1,5 +1,5 @@
 {
-  "name": "bitx",
+  "name": "luno-node",
   "version": "1.5.1",
   "author": "Brett Ausmeier <brett@ausmeier.co.za>",
   "description": "A simple wrapper for the BitX API.",
